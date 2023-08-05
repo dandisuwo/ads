@@ -1,4 +1,4 @@
-     var player = jwplayer("player");
+     var player = jwplayer("lsbtv");
          player.setup({
             playlist: [{
                 "image": getIMG,
