@@ -1,6 +1,5 @@
 
-        var player = jwplayer("player");
-
+        
         player.setup({
             playlist: [{
                 "image": getIMG,
